@@ -1,0 +1,10 @@
+^D:\STUDY AFFAIRS\SYLLABUS\3RD YEAR\2ND SEMESTER\COMPUTER GRAPHICS\LABS\EXAMPLE1\BUILD\CMAKEFILES\9F86FA791D655104E584DA828F324B45\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/study affairs/syllabus/3rd year/2nd semester/computer graphics/labs/Example1" "-BD:/study affairs/syllabus/3rd year/2nd semester/computer graphics/labs/Example1/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/study affairs/syllabus/3rd year/2nd semester/computer graphics/labs/Example1/build/Example1.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

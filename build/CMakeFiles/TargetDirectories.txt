@@ -1,0 +1,5 @@
+D:/study affairs/syllabus/3rd year/2nd semester/computer graphics/labs/Example1/build/CMakeFiles/Example1.dir
+D:/study affairs/syllabus/3rd year/2nd semester/computer graphics/labs/Example1/build/CMakeFiles/ALL_BUILD.dir
+D:/study affairs/syllabus/3rd year/2nd semester/computer graphics/labs/Example1/build/CMakeFiles/ZERO_CHECK.dir
+D:/study affairs/syllabus/3rd year/2nd semester/computer graphics/labs/Example1/build/vendor/glfw/CMakeFiles/ALL_BUILD.dir
+D:/study affairs/syllabus/3rd year/2nd semester/computer graphics/labs/Example1/build/vendor/glfw/src/CMakeFiles/glfw.dir
